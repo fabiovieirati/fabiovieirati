@@ -1,8 +1,8 @@
 # Fabio Vieira
 
-DevOps/SRE Engineer focused on building reliable, observable, and automated infrastructure.
+DevOps/SRE Engineer with over 6 years of experience in IT, specialized in cloud environments, Kubernetes, infrastructure as code, CI/CD, automation, and observability.
 
-I work across cloud platforms, Kubernetes, CI/CD, infrastructure as code, and production operations. My day-to-day is about turning complex environments into systems that are easier to deploy, monitor, scale, and recover.
+My work focuses on building reliable, scalable, and automated platforms, turning complex environments into systems that are easier to deploy, monitor, scale, and recover.
 
 ## What I Work With
 

@@ -54,7 +54,7 @@ I enjoy sharing practical DevOps lessons, including talks and content around inf
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-vieira-299252213/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-vieira-dev/)
 
 ---
 

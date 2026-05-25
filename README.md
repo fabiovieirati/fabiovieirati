@@ -58,5 +58,17 @@ I enjoy sharing practical DevOps lessons, including talks and content around inf
 
 ---
 
-![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiovieirati&show_icons=true&theme=transparent&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovieirati&layout=compact&theme=transparent&hide_border=true)
+## GitHub Highlights
+
+<table>
+  <tr>
+    <td>
+      <strong>Public repositories</strong><br />
+      <a href="https://github.com/fabiovieirati?tab=repositories">Explore my GitHub projects</a>
+    </td>
+    <td>
+      <strong>Main areas</strong><br />
+      DevOps, SRE, Kubernetes, Cloud, Automation, Observability
+    </td>
+  </tr>
+</table>
